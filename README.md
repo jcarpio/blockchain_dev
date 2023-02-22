@@ -7,8 +7,11 @@ https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/tok
 # Iota Tutorials
 https://wiki.iota.org/tutorials/
 
-# Connect to Shimmer EVM Testnet and deploy a Solidity Smart Contract
+# Iota: Connect to Shimmer EVM Testnet and deploy a Solidity Smart Contract
 https://wiki.iota.org/tutorials/shimmerevm-setup
+
+# Iota: ISC Chains and nodes
+https://wiki.iota.org/shimmer/smart-contracts/guide/chains_and_nodes/testnet/
 
 # Remix Ethereum
 https://remix.ethereum.org
