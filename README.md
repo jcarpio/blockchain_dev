@@ -13,5 +13,8 @@ https://wiki.iota.org/tutorials/shimmerevm-setup
 # Iota: ISC Chains and nodes
 https://wiki.iota.org/shimmer/smart-contracts/guide/chains_and_nodes/testnet/
 
+# Assembly
+https://assembly.sc/
+
 # Remix Ethereum
 https://remix.ethereum.org
