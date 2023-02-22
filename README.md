@@ -1,5 +1,5 @@
-# blockchain_development
-Thins about blockchain development
+# Blockchain Development
+About blockchain development
 
 # OpenZeppelin ERC20 contract
 https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC20/ERC20.sol
