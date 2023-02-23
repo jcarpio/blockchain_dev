@@ -1,6 +1,10 @@
 # Blockchain Development
 About blockchain development
 
+# Solidity
+https://solidity-by-example.org/
+https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA
+
 # EVM
 https://ethereum.org/en/developers/docs/evm/
 https://ethereum.github.io/yellowpaper/paper.pdf
