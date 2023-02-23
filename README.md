@@ -5,9 +5,13 @@ About blockchain development
 https://ethereum.org/en/developers/docs/evm/
 https://ethereum.github.io/yellowpaper/paper.pdf
 https://www.ethervm.io/
+https://docs.soliditylang.org/en/latest/introduction-to-smart-contracts.html#index-6
 
 # Hardhat
 https://hardhat.org/
+
+# Visual Studio Code
+https://code.visualstudio.com/
 
 # Pancakeswap
 https://github.com/pancakeswap
