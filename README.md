@@ -14,6 +14,9 @@ https://hardhat.org/
 https://code.visualstudio.com/
 https://github.com/NomicFoundation/hardhat-vscode
 
+# Node js
+https://nodejs.org/es/
+
 # Pancakeswap
 https://github.com/pancakeswap
 https://pancakeswap.finance/
