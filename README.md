@@ -22,6 +22,9 @@ https://github.com/NomicFoundation/hardhat-vscode
 # Node js
 https://nodejs.org/es/
 
+# Opensea
+https://opensea.io
+
 # Pancakeswap
 https://github.com/pancakeswap
 https://pancakeswap.finance/
