@@ -3,6 +3,8 @@ About blockchain development
 
 # EVM
 https://ethereum.org/en/developers/docs/evm/
+https://ethereum.github.io/yellowpaper/paper.pdf
+https://www.ethervm.io/
 
 # Hardhat
 https://hardhat.org/
