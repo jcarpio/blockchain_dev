@@ -1,6 +1,10 @@
 # Blockchain Development
 About blockchain development
 
+# Pancakeswap
+https://github.com/pancakeswap
+https://pancakeswap.finance/
+
 # OpenZeppelin ERC20 contract
 https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC20/ERC20.sol
 
