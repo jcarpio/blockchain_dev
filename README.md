@@ -6,6 +6,7 @@ https://ethereum.org/en/developers/docs/evm/
 https://ethereum.github.io/yellowpaper/paper.pdf
 https://www.ethervm.io/
 https://docs.soliditylang.org/en/latest/introduction-to-smart-contracts.html#index-6
+https://ethereum.org/en/whitepaper/
 
 # Hardhat
 https://hardhat.org/
