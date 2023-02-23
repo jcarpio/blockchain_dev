@@ -1,6 +1,9 @@
 # Blockchain Development
 About blockchain development
 
+# Hardhat
+https://hardhat.org/
+
 # Pancakeswap
 https://github.com/pancakeswap
 https://pancakeswap.finance/
