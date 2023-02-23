@@ -12,6 +12,7 @@ https://hardhat.org/
 
 # Visual Studio Code
 https://code.visualstudio.com/
+https://github.com/NomicFoundation/hardhat-vscode
 
 # Pancakeswap
 https://github.com/pancakeswap
