@@ -22,6 +22,9 @@ https://hardhat.org/
 https://geshan.com.np/blog/2021/01/free-nodejs-hosting/
 https://plenitud1369.onrender.com/#
 
+# How to create your first frontend for smart contracts
+https://developers.rsk.co/kb/first-frontend-web3-injected/
+
 # Visual Studio Code
 https://code.visualstudio.com/
 https://github.com/NomicFoundation/hardhat-vscode
