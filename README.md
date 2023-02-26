@@ -12,7 +12,7 @@ https://www.ethervm.io/
 https://docs.soliditylang.org/en/latest/introduction-to-smart-contracts.html#index-6
 https://ethereum.org/en/whitepaper/
 
-# Setup Windows VSCode form blockchain development
+# Setup Windows VSCode for blockchain development
 https://grizzlypeaksoftware.com/articles?id=947hoJYsqk86nRQku8szy
 
 # Hardhat
