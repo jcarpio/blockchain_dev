@@ -6,11 +6,11 @@ https://solidity-by-example.org/
 https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA
 
 # EVM
-https://ethereum.org/en/developers/docs/evm/
-https://ethereum.github.io/yellowpaper/paper.pdf
-https://www.ethervm.io/
-https://docs.soliditylang.org/en/latest/introduction-to-smart-contracts.html#index-6
-https://ethereum.org/en/whitepaper/
+## https://ethereum.org/en/developers/docs/evm/
+## https://ethereum.github.io/yellowpaper/paper.pdf
+## https://www.ethervm.io/
+## https://docs.soliditylang.org/en/latest/introduction-to-smart-contracts.html#index-6
+## https://ethereum.org/en/whitepaper/
 
 # Setup Windows VSCode for blockchain development
 https://grizzlypeaksoftware.com/articles?id=947hoJYsqk86nRQku8szy
