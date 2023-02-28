@@ -41,7 +41,9 @@ https://www.dappuniversity.com/articles/ethereum-dapp-react-tutorial
 ## How to Build Blockchain App - Ethereum Todo List (2023)
 https://www.dappuniversity.com/articles/blockchain-app-tutorial
 
-
+# ChatGPT
+## Planning for AGI and beyond
+https://openai.com/blog/planning-for-agi-and-beyond
 
 # Hardhat
 https://hardhat.org/
