@@ -27,6 +27,9 @@ https://medium.com/0xcode/interacting-with-smart-contracts-using-web3-js-34545a8
 # How to connect to Ethereum network with Web3.js (September 2022)
 https://www.quicknode.com/guides/web3-sdks/how-to-connect-to-ethereum-network-with-web3js
 
+# JSDoc Crash Course 2021 - JavaScript Documentation Generator
+https://www.youtube.com/watch?v=lTCadytiCNs
+
 # Hardhat
 https://hardhat.org/
 
