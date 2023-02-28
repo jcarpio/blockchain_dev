@@ -45,6 +45,9 @@ https://www.dappuniversity.com/articles/blockchain-app-tutorial
 ## Planning for AGI and beyond
 https://openai.com/blog/planning-for-agi-and-beyond
 
+## OpenAI About
+https://openai.com/about
+
 # Hardhat
 https://hardhat.org/
 
