@@ -21,6 +21,9 @@ https://grizzlypeaksoftware.com/articles?id=947hoJYsqk86nRQku8szy
 # How to Deploy Contract From NodeJS using Web3? (January 2023)
 https://www.geeksforgeeks.org/how-to-deploy-contract-from-nodejs-using-web3/
 
+# Interacting With Smart Contracts Using Web3.js (Part I) (June 2021)
+https://medium.com/0xcode/interacting-with-smart-contracts-using-web3-js-34545a8a1ebd
+
 # Hardhat
 https://hardhat.org/
 
