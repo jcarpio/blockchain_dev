@@ -34,6 +34,15 @@ https://www.youtube.com/watch?v=lTCadytiCNs
 ## JSDoc - How to generate documentation from JavaScript - Five + Minutes on Tips and Tricks (2023)
 https://www.youtube.com/watch?v=FrUQnR4GTpQ
 
+# React.js
+## How to Build Ethereum Dapp with React.js · Complete Step-By-Step Guide (Feb 2023)
+https://www.dappuniversity.com/articles/ethereum-dapp-react-tutorial
+
+## How to Build Blockchain App - Ethereum Todo List (2023)
+https://www.dappuniversity.com/articles/blockchain-app-tutorial
+
+
+
 # Hardhat
 https://hardhat.org/
 
