@@ -24,6 +24,9 @@ https://www.geeksforgeeks.org/how-to-deploy-contract-from-nodejs-using-web3/
 # Interacting With Smart Contracts Using Web3.js (Part I) (June 2021)
 https://medium.com/0xcode/interacting-with-smart-contracts-using-web3-js-34545a8a1ebd
 
+# How to connect to Ethereum network with Web3.js (September 2022)
+https://www.quicknode.com/guides/web3-sdks/how-to-connect-to-ethereum-network-with-web3js
+
 # Hardhat
 https://hardhat.org/
 
