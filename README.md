@@ -18,6 +18,9 @@ https://plenitud1369.onrender.com/#
 # Setup Windows VSCode for blockchain development
 https://grizzlypeaksoftware.com/articles?id=947hoJYsqk86nRQku8szy
 
+# How to Deploy Contract From NodeJS using Web3? (January 2023)
+https://www.geeksforgeeks.org/how-to-deploy-contract-from-nodejs-using-web3/
+
 # Hardhat
 https://hardhat.org/
 
