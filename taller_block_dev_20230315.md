@@ -19,4 +19,10 @@ https://developers.rsk.co/kb/first-frontend-web3-injected/
 ### Mastering Blockchain Proquest UHU
 https://ebookcentral.proquest.com/lib/bibuhuelib-ebooks/detail.action?pq-origsite=primo&docID=5340530
 
+### React js
+https://es.reactjs.org/
+
+### Node js
+https://nodejs.org/en/
+
 
