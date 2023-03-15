@@ -28,4 +28,7 @@ https://es.reactjs.org/
 ### Node js
 https://nodejs.org/en/
 
+### Ledger
+https://www.ledger.com/es
+
 
