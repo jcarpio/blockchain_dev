@@ -5,7 +5,8 @@ About blockchain development
 ### Solidity by example
 https://solidity-by-example.org/
 
-###https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA
+### Smart Contract Programmer
+https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA
 
 ## Example running at Render.com
 https://plenitud1369.onrender.com/#
