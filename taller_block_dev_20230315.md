@@ -31,4 +31,7 @@ https://nodejs.org/en/
 ### Ledger
 https://www.ledger.com/es
 
+### Eterscan Gas Tracker
+https://etherscan.io/gastracker
+
 
