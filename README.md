@@ -1,6 +1,9 @@
 # Blockchain Development
 About blockchain development
 
+### Taller Blockchain Dev 
+taller_block_dev_20230315.md
+
 ## Solidity
 ### Solidity by example
 https://solidity-by-example.org/
