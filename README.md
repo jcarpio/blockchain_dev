@@ -2,7 +2,7 @@
 About blockchain development
 
 ### Taller Blockchain Dev 
-taller_block_dev_20230315.md
+https://github.com/jcarpio/blockchain_development/blob/main/taller_block_dev_20230315.md
 
 ## Solidity
 ### Solidity by example
