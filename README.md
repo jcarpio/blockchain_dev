@@ -2,8 +2,10 @@
 About blockchain development
 
 ## Solidity
+### Solidity by example
 https://solidity-by-example.org/
-https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA
+
+###https://www.youtube.com/channel/UCJWh7F3AFyQ_x01VKzr9eyA
 
 ## Example running at Render.com
 https://plenitud1369.onrender.com/#
